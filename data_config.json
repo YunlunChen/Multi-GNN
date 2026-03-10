@@ -1,6 +1,6 @@
 {
     "paths": {
-      "aml_data": "/kaggle/working/preprocessed/formatted_transactions.csv", 
+      "aml_data": "/kaggle/input/datasets/yunlunchen/formatted-transactions/formatted_transactions_HI-Small.csv", 
       "model_to_load": "/path/to/model_you_want_to_load (e.g for inference or fine-tuning)",
       "model_to_save": "/kaggle/working/models/"
     }
